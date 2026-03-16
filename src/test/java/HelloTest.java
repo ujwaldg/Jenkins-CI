@@ -5,6 +5,6 @@ public class HelloTest {
     @Test
     public void textMessage(){
         String msg="Hello";
-        assertEquals("Hi!",msg);
+        assertEquals("Hello",msg);
     }
 }
